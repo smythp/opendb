@@ -18,7 +18,7 @@
 *** [[http://papers.ssrn.com/sol3/JELJOUR_Results.cfm?form_name%3Djournalbrowse&journal_id%3D948057][SSRN English & American Literature Research Network]]
 
  
-*** Corpera 
+** Corpera 
 
 *** [[http://corpus.byu.edu/bnc/][British National Corpus]] 
 *** [[http://corpus.byu.edu/soap/][Corpus of American Soap Operas]] 
