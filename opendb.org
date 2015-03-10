@@ -1,6 +1,14 @@
 #+TITLE: Open Databases list
 #+OPTIONS: num:nil 
 
+* Criminal Justice
+
+** Data sets
+
+*** [[http://www.icpsr.umich.edu/icpsrweb/NACJD/][National Archive of Criminal Justice Data]]
+*** [[http://www.justice.gov/open/open-data][Department of Justice Open Data]]
+*** [[http://www.lib.umn.edu/libdata/link.phtml?page_id%3D2258&element_id%3D83255&source%3Dpage][Bureau of Justice Statistics Publications 
+]]*** [[http://www.lib.umn.edu/libdata/link.phtml?page_id%3D2258&element_id%3D83258&source%3Dpage][Inter-University Consortium for Political and Social Research]]
 
 
 * English
@@ -19,3 +27,4 @@
 *** [[http://corpus.byu.edu/soap/][Corpus of American Soap Operas]] 
 *** [[http://corpus.byu.edu/bnc/][British National Corpus]] 
 *** [[http://corpus.byu.edu/can/][Strathy Corpus]]
+
