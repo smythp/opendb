@@ -5,26 +5,26 @@
 
 ** Data sets
 
-*** [[http://www.icpsr.umich.edu/icpsrweb/NACJD/][National Archive of Criminal Justice Data]]
 *** [[http://www.justice.gov/open/open-data][Department of Justice Open Data]]
-*** [[http://www.lib.umn.edu/libdata/link.phtml?page_id%3D2258&element_id%3D83255&source%3Dpage][Bureau of Justice Statistics Publications 
-]]*** [[http://www.lib.umn.edu/libdata/link.phtml?page_id%3D2258&element_id%3D83258&source%3Dpage][Inter-University Consortium for Political and Social Research]]
-
+*** [[http://www.bjs.gov/][Department of Justice Statistics]]
+*** [[http://www.lib.umn.edu/libdata/link.phtml?page_id%3D2258&element_id%3D83258&source%3Dpage][Inter-University Consortium for Political and Social Research]]
+*** [[http://www.icpsr.umich.edu/icpsrweb/NACJD/][National Archive of Criminal Justice Data]]
 
 * English
 
 ** Data sets
 
-*** [[http://papers.ssrn.com/sol3/JELJOUR_Results.cfm?form_name%3Djournalbrowse&journal_id%3D948057][SSRN English & American Literature Research Network]]
 *** [[http://wiki.dbpedia.org/Datasets][The DBpedia Data Set]]
+*** [[http://papers.ssrn.com/sol3/JELJOUR_Results.cfm?form_name%3Djournalbrowse&journal_id%3D948057][SSRN English & American Literature Research Network]]
 
-** Corpera 
+ 
+*** Corpera 
 
-*** [[http://corpus.byu.edu/glowbe/][Global Web-Based English]] 
+*** [[http://corpus.byu.edu/bnc/][British National Corpus]] 
+*** [[http://corpus.byu.edu/soap/][Corpus of American Soap Operas]] 
 *** [[http://corpus.byu.edu/coca/][Corpus of Contemporary American English]] 
 *** [[http://corpus.byu.edu/coha/][Corpus of Historical American English]] 
-*** [[http://corpus.byu.edu/time/][TIME Magazine Corpus]] 
-*** [[http://corpus.byu.edu/soap/][Corpus of American Soap Operas]] 
-*** [[http://corpus.byu.edu/bnc/][British National Corpus]] 
+*** [[http://corpus.byu.edu/glowbe/][Global Web-Based English]] 
 *** [[http://corpus.byu.edu/can/][Strathy Corpus]]
+*** [[http://corpus.byu.edu/time/][TIME Magazine Corpus]] 
 
