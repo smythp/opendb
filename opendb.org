@@ -1,0 +1,21 @@
+#+TITLE: Open Databases list
+#+OPTIONS: num:nil 
+
+
+
+* English
+
+** Data sets
+
+*** [[http://papers.ssrn.com/sol3/JELJOUR_Results.cfm?form_name%3Djournalbrowse&journal_id%3D948057][SSRN English & American Literature Research Network]]
+*** [[http://wiki.dbpedia.org/Datasets][The DBpedia Data Set]]
+
+** Corpera 
+
+*** [[http://corpus.byu.edu/glowbe/][Global Web-Based English]] 
+*** [[http://corpus.byu.edu/coca/][Corpus of Contemporary American English]] 
+*** [[http://corpus.byu.edu/coha/][Corpus of Historical American English]] 
+*** [[http://corpus.byu.edu/time/][TIME Magazine Corpus]] 
+*** [[http://corpus.byu.edu/soap/][Corpus of American Soap Operas]] 
+*** [[http://corpus.byu.edu/bnc/][British National Corpus]] 
+*** [[http://corpus.byu.edu/can/][Strathy Corpus]]
